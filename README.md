@@ -1,4 +1,4 @@
-PDF to Audio Converter
+📖 PDF to Audio Converter
 📌 Overview
 
 The PDF to Audio Converter is a web-based application that converts text-based PDF files into audio. Instead of reading, users can simply listen to the PDF content. This project is especially useful for:
@@ -11,6 +11,8 @@ Users who prefer audio books over reading long texts.
 
 The system leverages Text-to-Speech (TTS) technology to provide a smooth reading experience in audio form.
 
+
+
 🛠️ Features
 
 📂 Upload PDF → Select any text-based PDF file.
@@ -20,6 +22,8 @@ The system leverages Text-to-Speech (TTS) technology to provide a smooth reading
 ▶ Play Audio → Listen directly within the browser.
 
 📱 Web-based → No need to install large software like Natural Reader or Voice Dream Reader.
+
+
 
 🔧 Technology Stack
 
@@ -35,6 +39,8 @@ PyPDF2 (PDF text extraction)
 
 Platform: Browser-based
 
+
+
 📂 Project Structure
 PDF2Audio/
 │── app.py                # Main backend file (Flask/Django)
@@ -44,6 +50,8 @@ PDF2Audio/
 │── output/               # Generated audio files
 │── requirements.txt      # Python dependencies
 │── README.md             # Project Documentation
+
+
 
 ⚙️ Installation & Setup
 1️⃣ Clone Repository
@@ -59,6 +67,8 @@ python app.py
 
 Now open 👉 http://127.0.0.1:5000/ in your browser.
 
+
+
 📸 Screenshots
 
 Login & Registration Pages
@@ -66,6 +76,8 @@ Login & Registration Pages
 Home Page with Header & Footer
 
 PDF Upload & Audio Player
+
+
 
 
 🚀 Future Enhancements
